@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MingleSports</string>
+    <string name="tab1">Airports</string>
+    <string name="tab2">Schiphol</string>
+    <string name="tab3">Settings</string>
+
+    <string name="City">City</string>
+    <string name="Country_ID">Country ID</string>
+    <string name="Airport_ID">Airport ID</string>
+    <string name="Latitude">Latitude</string>
+    <string name="Longitude">Longitude</string>
+    <string name="NearestAirport">Nearest Airport:</string>
+    <string name="Distance">Distance:</string>
+    <string name="km" translatable="false">km</string>
+    <string name="miles" translatable="false">miles</string>
+    <string name="fromSchiphol">from Schiphol</string>
+    <string name="departureAirportId" translatable="false">AMS</string>
+    <string name="getAirports" translatable="false">airports.json</string>
+    <string name="getFlights" translatable="false">flights.json</string>
+    <string name="httpException" translatable="false">" An unexpected error occurred."</string>
+    <string name="ioException" translatable="false">Couldn\'t reach server. Check your internet connection.</string>
+    <string name="lat" translatable="false">lat</string>
+    <string name="lon" translatable="false">long</string>
+    <string name="distanceSP" translatable="false">dis</string>
+    <string name="mile" translatable="false">mile</string>
+    <string name="language" translatable="false">lng</string>
+    <string name="English">English</string>
+    <string name="Dutch">Dutch</string>
+    <string name="measurement" translatable="false">Measurement</string>
+    <string name="settingLanguage" translatable="false">Language</string>
+</resources>

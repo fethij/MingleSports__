@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MingleSports" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/jktw</item>
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+
+    <style name="Theme.MingleSports.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor">@color/jktw</item>
+        <item name="android:windowBackground">@color/jktw</item>
+    </style>
+</resources>

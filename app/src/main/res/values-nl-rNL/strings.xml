@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MingleSports</string>
+    <string name="tab1">Luchthavens</string>
+    <string name="tab2">Schiphol</string>
+    <string name="tab3">Instellingen</string>
+
+    <string name="City">Stad</string>
+    <string name="Country_ID">Land ID</string>
+    <string name="Airport_ID">Luchthaven ID</string>
+    <string name="Latitude">Latitude</string>
+    <string name="Longitude">Longitude</string>
+    <string name="NearestAirport">Dichtstbijzijnde luchthaven:</string>
+    <string name="Distance">Afstand:</string>
+    <string name="fromSchiphol">van Schiphol</string>
+    <string name="English">Engels</string>
+    <string name="Dutch">Nederlands</string>
+</resources>
